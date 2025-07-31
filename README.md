@@ -25,8 +25,8 @@ This project examines the housing markets of New South Wales (NSW) and South Aus
 - Excel (initial analysis and descriptive stats)
 
 ## 📈 Sample Visuals
-<img width="1167" height="459" alt="image" src="https://github.com/user-attachments/assets/942fd5f6-0223-491c-a281-e6378bddd855" />
-<img width="1167" height="459" alt="image" src="https://github.com/user-attachments/assets/52f372db-418e-42be-bd36-7161acc1524a" />
+<img width="1707" height="871" alt="image" src="https://github.com/user-attachments/assets/ef4e23b1-051f-4ebd-ba87-23c962920a9e" />
+<img width="1385" height="569" alt="image" src="https://github.com/user-attachments/assets/81d83507-b9e5-4632-8b62-ff3e186eb597" />
 <img width="1167" height="459" alt="image" src="https://github.com/user-attachments/assets/4fbe8a2a-4c4b-4b63-b44e-2890a4e36d86" />
 
 ## 📌 How to Run
