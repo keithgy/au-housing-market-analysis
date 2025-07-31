@@ -1,6 +1,7 @@
 # Comparative Analysis of Australian Housing Markets (2011–2023)
 
 This project examines the housing markets of New South Wales (NSW) and South Australia (SA) over a 12-year period using statistical techniques including hypothesis testing, correlation analysis, and regression modeling.
+Full report details findings and overall key metrics, methodologies, and research limitations of the analysis (feel free to check it out!) 
 
 ## 📊 Project Objectives
 - Analyze housing price trends in NSW and SA.
